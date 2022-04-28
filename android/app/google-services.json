@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240603065720",
+    "project_id": "getx-auth-870dd",
+    "storage_bucket": "getx-auth-870dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240603065720:android:bfa2d7249a090d63cd2c8d",
+        "android_client_info": {
+          "package_name": "com.suwari.fire_get"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240603065720-23shclu5imv4q8poq9tsgkv9v5hbh0hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suwari.fire_get",
+            "certificate_hash": "d4375bae6eeee8fe78fbef5b5c55289b06d5530d"
+          }
+        },
+        {
+          "client_id": "240603065720-j0ta7nmnc2tml6vr12hv4snflu5662uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFWB9qCRdNszrHeYiF0If9F_PPuP6KIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240603065720-j0ta7nmnc2tml6vr12hv4snflu5662uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
